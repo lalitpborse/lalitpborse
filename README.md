@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @lalitpborse
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Lalit Borase!
+🚀 Full-Stack Developer | Java Enthusiast | Problem Solver
 
-<!---
-lalitpborse/lalitpborse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Full-Stack Developer with a Master's in Computer Applications, skilled in building scalable and efficient software solutions. I enjoy coding, debugging, and developing user-friendly applications that enhance productivity and user experience. Always eager to learn and explore new technologies!
